@@ -34,7 +34,7 @@
 <div align = "center">
 <h3 align="center"> 📈 Statistics</h3>
 <a align ="center" href="https://github.com/AmGelany10">
-<img height="162px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmGelany10&langs_count=8&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&title_color=020024&text_color=ffffff&bg_color=1,00008B,C71585" /></a> 
+<img height="162px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmGelany10&langs_count=8&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&title_color=020024&text_color=ffffff&bg_color=1,00008B,C71585,4169E1" /></a> 
 
 <a>
 <!-- Language and tools badge-->
