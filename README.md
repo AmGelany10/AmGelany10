@@ -1,15 +1,15 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> salaam alaikum </h2>
 
-<h4 align="center"> Information&Technology Engineer || Networking Eager || Data Science Enthusiast || Passionate about Football Matches Analysis and Photography </h4>
+<h5 align="center"> Information&Technology Engineer || Networking Eager || Data Science Enthusiast || Passionate about Football Matches Analysis and Photography </h5>
 
 <br>
 📫 Reach me out!
 <p align="center">
-    <a href="https://www.linkedin.com/in/abdelrahman-gelany"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelrahman-gelany"/></a>
-    <a href="https://twitter.com/AbdlrhmanGilany"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/AbdlrhmanGilany"/></a>
-    <a href="https://www.instagram.com/abdelrhman.gelany"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/abdelrhman.gelany"/></a>
-  </p>
-  
+    <a href="https://www.linkedin.com/in/abdelrahman-gelany"><img height="24px" src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelrahman-gelany"/></a>
+    <a href="https://twitter.com/AbdlrhmanGilany"><img height="24px" src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/AbdlrhmanGilany"/></a>
+    <a href="https://www.instagram.com/abdelrhman.gelany"><img height="24px" src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/abdelrhman.gelany"/></a>
+  </p> 
+
 <!-- About-->
 <h3 align="left">About</h3>
 
@@ -27,8 +27,8 @@
 <!-- Business-->
 <h3 align="left">Business</h3>
 
-* :email: [Contact me via Gmail](abdo.gelany90@gmail.com)
-* :paperclip: [CV/Resume](https://github.com/AmGelany10/AmGelany10/issues/1#issuecomment-1026163578)
+- :email: [Contact me via Gmail](abdo.gelany90@gmail.com)
+- :paperclip: [My CV/Resume](https://github.com/AmGelany10/AmGelany10/issues/1#issuecomment-1026163578)
 
 <!-- Statistics -->
 <div align = "center">
