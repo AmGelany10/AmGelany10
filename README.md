@@ -9,8 +9,8 @@
   </p>
   
 <!-- About-->
-* :mailbox: [contact me via Gmail](abdo.gelany90@gmail.com)
-* :paperclip: CV
+* :mailbox: [Contact me via Gmail](abdo.gelany90@gmail.com)
+* :paperclip: [CV/Resume](https://github.com/AmGelany10/AmGelany10/issues/1#issuecomment-1026163578)
 * :fountain_pen: At the moment, expanding my knowledge in data science subject
 * :mortar_board: Currently, I have one semester left to get my degree
 * :hourglass_flowing_sand: Looking forward to be teaching assistant.
@@ -41,8 +41,11 @@
 
 
 
-<!-- contact me via Gmail
+<!--
+---------------------------------------------------------------------
+---------------------------------------------------------------------
 *- Networking*
+contact me via Gmail
 May count on my assistance in
 Currently, I have one semester left to get my degree.
 At the moment, expanding my knowledge in data science subject.
