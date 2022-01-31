@@ -2,6 +2,8 @@
 
 <h4 align="center"> Information&Technology Engineer || Networking Eager || Data Science Enthusiast || Passionate about Football Matches Analysis and Photography </h4>
 
+<br>
+📫 Reach me out!
 <p align="center">
     <a href="https://www.linkedin.com/in/abdelrahman-gelany"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelrahman-gelany"/></a>
     <a href="https://twitter.com/AbdlrhmanGilany"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/AbdlrhmanGilany"/></a>
@@ -9,11 +11,11 @@
   </p>
   
 <!-- About-->
-* :mailbox: [Contact me via Gmail](abdo.gelany90@gmail.com)
-* :paperclip: [CV/Resume](https://github.com/AmGelany10/AmGelany10/issues/1#issuecomment-1026163578)
+<h3 align="left">About</h3>
+
 * :fountain_pen: At the moment, expanding my knowledge in data science subject
 * :mortar_board: Currently, I have one semester left to get my degree
-* :hourglass_flowing_sand: Looking forward to be teaching assistant.
+* :hourglass_flowing_sand: Looking forward to be teaching assistant
 * :computer: May count on my assistance in:
      * Networking
      * Communication Networks
@@ -21,6 +23,12 @@
      * Data Science
      * Computer Science
 * :egypt:
+
+<!-- Business-->
+<h3 align="left">Business</h3>
+
+* :email: [Contact me via Gmail](abdo.gelany90@gmail.com)
+* :paperclip: [CV/Resume](https://github.com/AmGelany10/AmGelany10/issues/1#issuecomment-1026163578)
 
 <!-- Statistics -->
 <div align = "center">
