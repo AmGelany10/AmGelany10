@@ -2,7 +2,9 @@
 
 <h5 align="center"> Information&Technology Engineer || Networking Eager || Data Science Enthusiast || Passionate about Football Matches Analysis and Photography </h5>
 
+<!-- Empty Line -->
 <br>
+
 📫 Reach me out!
 <p align="center">
     <a href="https://www.linkedin.com/in/abdelrahman-gelany"><img height="24px" src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelrahman-gelany"/></a>
@@ -43,12 +45,28 @@
 <img align="center" alt="Java" width="66px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="center" alt="Android" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="center" alt="MySQL" width="66px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="center" alt="MongoDB" width="66px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-</a>
+<img align="center" alt="MongoDB" width="66px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />  
+<img align="center" alt="arduino" width="46px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
+<a>
+     </br>
+</br>
+    
+<!-- Profile Views -->
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=AmGelany10&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahman-gelany" />
+</p>
+ 
+<!-- gif -->
+<p align="center">
+    <img src="https://media.giphy.com/media/eFzNLEFY1bfyrHK7OE/giphy.gif" width="20%">
+</p>
 
-
-
-
+<!-- rank(it don't work because I'm not there)
+<p align="center">
+ [![Most Active GitHub User Rank](https://enayabaoflnczqe.m.pipedream.net)](https://commits.top/egypt.html)
+</p>    
+-->
+    
 <!--
 ---------------------------------------------------------------------
 ---------------------------------------------------------------------
