@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> salaam alaikum </h2>
+<h2 align="center"><img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif" width="35"> salaam alaikum </h2>
 
 <h5 align="center"> Information&Technology Engineer || Networking Eager || Data Science Enthusiast || Passionate about Football Matches Analysis and Photography </h5>
 
@@ -21,8 +21,11 @@
 * :computer: May count on my assistance in:
      * Networking
      * Communication Networks
+     * Network Security
      * Cybersecurity
+     * Cloud Computing
      * Data Science
+     * Machine Learning
      * Computer Science
 * :egypt:
 
@@ -50,6 +53,30 @@
 <a>
      </br>
 </br>
+    
+    
+
+<!-- Language and tools badge-->
+<h3 align="center">🛠️ Data Science</h3>
+    
+<table>
+<tbody>
+ <tr>
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> 
+</td>
+
+<td align="center" width="33%">
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"> 
+</td>
+
+<td align="center" width="33%">
+<img height=80px src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> 
+</td>
+</tr>
+
+</tbody>
+</table>
     
 <!-- Profile Views -->
 <p align="center">
