@@ -10,6 +10,8 @@
     <a href="https://www.linkedin.com/in/abdelrahman-gelany"><img height="24px" src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelrahman-gelany"/></a>
     <a href="https://twitter.com/AbdlrhmanGilany"><img height="24px" src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/AbdlrhmanGilany"/></a>
     <a href="https://www.instagram.com/abdelrhman.gelany"><img height="24px" src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/abdelrhman.gelany"/></a>
+<!--     <a href="https://www.facebook.com/abdelrhman.gelany/"><img height="24px" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/abdelrhman.gelany/"></a>
+    <a href="https://wa.me/0201000643014"><img height="24px" src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=flat-square&logo=whatsapp&logoColor=white&link="https://wa.me/0201000643014"</a> -->
   </p> 
 
 <!-- About-->
