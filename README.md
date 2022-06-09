@@ -1,5 +1,5 @@
-<h2 align="center"><img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif" width="35"> salaam alaikum </h2>
-
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> salaam alaikum </h2>
+<!--https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif -->
 <h5 align="center"> Information&Technology Engineer || Networking Eager || Data Science Enthusiast || Cloud Geek || Passionate about Football Matches Analysis and Photography </h5>
 
 <!-- Empty Line -->
@@ -73,7 +73,11 @@
 <td align="center" width="33%">
 <img height=80px src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> 
 </td>
-</tr>
+     
+<!-- <td align="center" width="33%">
+<img height=80px src="https://user-images.githubusercontent.com/315810/92255284-156f1180-eea0-11ea-9d2d-be8262670e8c.png"> 
+</td>
+</tr> -->
 
 </tbody>
 </table>
