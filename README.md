@@ -19,7 +19,8 @@
 
 * :fountain_pen: At the moment, revising and expanding my knowledge in the information technology subject
 * :medal_military: Recently, I completed my military service after 14 months of national duty
-* :mortar_board: B.sc in Information Engineering & Technology (Networks Major - Class 22')
+* :mortar_board: GUC Alumni - Class 22'
+* :white_check_mark: B.sc in Information Engineering & Technology (Networks Major)
 * :hourglass_flowing_sand: Looking forward to be teaching assistant
 * :computer: May count on my assistance in:
      * Networking
