@@ -1,6 +1,6 @@
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> salaam alaikum </h2>
 <!--https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif -->
-<h5 align="center"> Information&Technology Engineer || Networking Eager || Data Science Enthusiast || Cloud Geek || Passionate about Football Matches Analysis and Photography </h5>
+<h5 align="center"> IT & TechOps Engineer || Networking Eager || Data Science Enthusiast || Cloud Geek || Passionate about Football Matches Analysis and Photography </h5>
 
 <!-- Empty Line -->
 <br>
